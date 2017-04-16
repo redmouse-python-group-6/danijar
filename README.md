@@ -1,1 +1,1 @@
-# danijar
+# Daniiar Raiymkulov homework
