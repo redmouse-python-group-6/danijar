@@ -11,5 +11,7 @@ elif 7<=x<=9:
     for x in range(x,x+x,1):
         print(x)
         x += 1
+x = [x+=1 for x in range(x,x+x,1)]
+print(x)     
 else:
     print("Error")
