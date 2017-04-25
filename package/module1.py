@@ -6,7 +6,7 @@ def one_three(x):
 def four_six(x):
 	power = int(input("Enter the power of your number:"))
     print(x**power)
-def seven_ten(x):
+def seven_nine(x):
 	for x in range(x,x+x,1):
         print(x)
         x += 1
