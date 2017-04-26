@@ -1,4 +1,4 @@
-from package import module2
+from package.module2 import *
 class Society:
 	def __init__(self,age):
 		self.age = age
