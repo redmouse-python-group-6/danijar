@@ -14,7 +14,7 @@ class Society:
 			sixty_hundredtwenty()
 		elif 0 < self.age >120:
 			zero_hundredtwenty()
-
 print("Общество в начале XXI века")
+
 k = Society(int(input("Введите возраст:\n")))
 
