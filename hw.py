@@ -11,3 +11,6 @@ print(type(p))
 day = int(input("Введите количество дней: "))
 amount = date.fromordinal(day)
 #Задание #7
+dt = datetime.strptime("11.12.2013", "%d.%m.%Y")
+final = dt.strftime("%B %d, %Y")
+print(final)
