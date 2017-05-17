@@ -2,6 +2,11 @@
 from datetime import date, time, datetime, timedelta
 k = datetime.strptime("19901204", "%Y%m%d")
 print(k)
+#Задание №2
+d = 12
+m = 10
+y = 2007
+dd = datetime(y,m,d)
 #Задание №3
 date = "24.02.2001 17:05:00"
 p = datetime.strptime("24.02.2001 17:05:00", "%d.%m.%Y %H:%M:%S")
